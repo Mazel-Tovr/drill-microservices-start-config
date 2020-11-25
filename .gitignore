@@ -1,0 +1,11 @@
+### IntelliJ ###
+/.idea
+out/
+*.iml
+
+###Project###
+agent
+
+### Gradle ###
+.gradle
+build/
